@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cutzy - Barber at Home in Jammu | Haircuts, Beard & Grooming Services</title>
+  <meta name="description" content="Cutzy is Jammu's #1 barber-at-home service. Book professional haircuts, beard grooming, and kids’ styling from the comfort of your home. Fast, affordable, and hygienic!">
+  <meta name="keywords" content="Cutzy, barber at home Jammu, home haircut Jammu, mobile barber Jammu, hair grooming service, Cutzy app, beard trim home service">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background-image: url('https://i.imgur.com/vF6FQXW.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 8px;
+      margin-top: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 { color: #222; }
+    ul { list-style: none; padding-left: 0; }
+    li { padding: 10px 0; border-bottom: 1px solid #ddd; }
+    .price { float: right; }
+    .btn {
+      background: green;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+      margin-right: 10px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cutzy - Barber at Home</h1>
+    <p>Book your haircut anywhere in Jammu!</p>
+  </header>
+  <div class="container">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Haircut <span class="price">₹129</span></li>
+      <li>Beard Trim <span class="price">₹69</span></li>
+      <li>Facial <span class="price">₹399</span></li>
+      <li>Hair Colour <span class="price">₹149</span></li>
+      <li>Head, Shoulder & Arms Massage <span class="price">₹99</span></li>
+      <li>Shave <span class="price">₹69</span></li>
+      <li>Foam Shave <span class="price">₹99</span></li>
+      <li>Threading <span class="price">₹59</span></li>
+      <li><strong>Full Grooming (All Items)</strong> <span class="price"><strong>₹899</strong></span></li>
+    </ul>
+
+    <h3>Booking Charges</h3>
+    <p>Advance ₹29 required for confirming your booking.</p>
+    <a class="btn" href="https://wa.me/918899287991?text=Hi%20I%20want%20to%20book%20a%20Cutzy%20barber%20service%20at%20home.">Book Now on WhatsApp</a>
+    <a class="btn" href="tel:8899287991">Call Now</a>
+  </div>
+  <footer>
+    &copy; 2025 Cutzy | Owned by Joginder Jurmal
+  </footer>
+</body>
+</html>
